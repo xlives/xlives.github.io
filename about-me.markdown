@@ -10,9 +10,6 @@ title: About Me
         About Me
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
     I am a doctoral research student in the school of Information Science, [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/) (JAIST) (Ishikawa Prefecture, Japan) and in the school of Information, Computer, and Communication Technology  (ICT), [The Sirindhorn International Institute of Technology](http://www.siit.tu.ac.th/newsite/) (SIIT) (Pathum Thani, Thailand).
 
 My research interests primarily involves logical reasoning theories and their applications. More specifically, my primary interests are about [Description Logics](https://en.wikipedia.org/wiki/Description_logic), [Modal Logics](https://en.wikipedia.org/wiki/Modal_logic), and [Defeasible Logics](https://en.wikipedia.org/wiki/Defeasible_logic). 
