@@ -1,0 +1,10 @@
+---
+published: true
+title: About Me 
+layout: post
+---
+I am a doctoral research student in the school of Information Science, Japan Advanced Institute of Science and Technology (JAIST) (Ishikawa Prefecture, Japan) and in the school of Information, Computer, and Communication Technology  (ICT), The Sirindhorn International Institute of Technology (SIIT) (Pathum Thani, Thailand).
+
+My research interests primarily involves logical reasoning theories and their applications. Fortunately, not only having theoretical mindset, I am also interested in practical approaches for software development solutions. Being an open-minded software engineer, I have joined Agille66 community and Thai Programmer networks and help organising conferences in the free time.
+
+See my official [CV](https://drive.google.com/file/d/0B3XK_HW-FzZaMldXMm52V3RpV2c/view).
