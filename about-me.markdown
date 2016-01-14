@@ -11,4 +11,4 @@ Fortunately, not only having theoretical mindset, I am also interested in practi
 
 See my official [CV](https://drive.google.com/file/d/0B3XK_HW-FzZaMldXMm52V3RpV2c/view).
 
-See my project experiences [page](https://sites.google.com/site/tracharak/home).
+See my research projects [page](https://sites.google.com/site/tracharak/home).
