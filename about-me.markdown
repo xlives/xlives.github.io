@@ -13,4 +13,4 @@ See my official [CV](https://drive.google.com/file/d/0B3XK_HW-FzZaMldXMm52V3RpV2
 
 See my research projects [page](https://sites.google.com/site/tracharak/home){:target="_blank"}.
 
-<r.teeradaj@gmail.com>
+Thanks a lot for visiting this site! If you want to further discuss with me, please email to <r.teeradaj@gmail.com>.
