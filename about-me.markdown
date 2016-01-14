@@ -1,7 +1,7 @@
 ---
 published: true
 title: About Me 
-layout: post
+layout: page
 ---
 I am a doctoral research student in the school of Information Science, [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/) (JAIST) (Ishikawa Prefecture, Japan) and in the school of Information, Computer, and Communication Technology  (ICT), [The Sirindhorn International Institute of Technology](http://www.siit.tu.ac.th/newsite/) (SIIT) (Pathum Thani, Thailand).
 
