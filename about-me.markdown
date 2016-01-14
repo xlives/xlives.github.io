@@ -9,6 +9,6 @@ My research interests primarily involves logical reasoning theories and their ap
 
 Fortunately, not only having theoretical mindset, I am also interested in practical approaches for software development solutions. Being an open-minded software engineer, I have joined Agille66 community and Thai Programmer networks and help organising conferences in the free time.
 
-See my official [CV](https://drive.google.com/file/d/0B3XK_HW-FzZaMldXMm52V3RpV2c/view).
+See my official [CV](https://drive.google.com/file/d/0B3XK_HW-FzZaMldXMm52V3RpV2c/view){:target="_blank"}.
 
-See my research projects [page](https://sites.google.com/site/tracharak/home).
+See my research projects [page](https://sites.google.com/site/tracharak/home){:target="_blank"}.
