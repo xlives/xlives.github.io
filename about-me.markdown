@@ -3,7 +3,7 @@ published: true
 title: About Me 
 layout: page
 ---
-I am a doctoral research student in the school of Information Science, [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/){:target="_blank"} (JAIST) (Ishikawa Prefecture, Japan) and in the school of Information, Computer, and Communication Technology  (ICT), [The Sirindhorn International Institute of Technology](http://www.siit.tu.ac.th/newsite/){:target="_blank"} (SIIT) (Pathum Thani, Thailand).
+I am a Ph.D student in the school of Information Science, [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/){:target="_blank"} (JAIST) (Ishikawa Prefecture, Japan) and in the school of Information, Computer, and Communication Technology  (ICT), [The Sirindhorn International Institute of Technology](http://www.siit.tu.ac.th/newsite/){:target="_blank"} (SIIT) (Pathum Thani, Thailand).
 
 My research interests are primarily about Logic and its application to Formal semantics. More specifically, my primary interests are about [Description Logics](https://en.wikipedia.org/wiki/Description_logic){:target="_blank"} and [Modal Logics](https://en.wikipedia.org/wiki/Modal_logic){:target="_blank"}. 
 
