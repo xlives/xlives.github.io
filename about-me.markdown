@@ -5,7 +5,7 @@ layout: page
 ---
 I am a doctoral research student in the school of Information Science, [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/){:target="_blank"} (JAIST) (Ishikawa Prefecture, Japan) and in the school of Information, Computer, and Communication Technology  (ICT), [The Sirindhorn International Institute of Technology](http://www.siit.tu.ac.th/newsite/){:target="_blank"} (SIIT) (Pathum Thani, Thailand).
 
-My research interests primarily involves logical reasoning theories and their applications. More specifically, my primary interests are about [Description Logics](https://en.wikipedia.org/wiki/Description_logic){:target="_blank"}, [Modal Logics](https://en.wikipedia.org/wiki/Modal_logic){:target="_blank"}, and [Defeasible Logics](https://en.wikipedia.org/wiki/Defeasible_logic){:target="_blank"}. 
+My research interests are primarily about Logic and its application to Formal semantics. More specifically, my primary interests are about [Description Logics](https://en.wikipedia.org/wiki/Description_logic){:target="_blank"} and [Modal Logics](https://en.wikipedia.org/wiki/Modal_logic){:target="_blank"}. 
 
 Fortunately, not only having theoretical mindset, I am also interested in practical approaches for software development solutions. Being an open-minded software engineer, I have joined Agille66 community and Thai Programmer networks and help organising conferences in the free time.
 
