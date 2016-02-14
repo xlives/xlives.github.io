@@ -14,7 +14,6 @@ Following is a list of journals ordered by an impact factor. Note that all the i
 <a href="http://www.scimagojr.com/journalsearch.php?q=24354&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="http://www.scimagojr.com/journal_img.php?id=24354&amp;title=true" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 2. [Q2, Impact Factor: 2.308 (evaluated in 2012)] [International Journal on Semantic Web and Information Systems](http://www.ijswis.org/maintenance.html) <br>
-**This is in ISI database.** <br>
 **H Index: 23** <br>
 <a href="http://www.scimagojr.com/journalsearch.php?q=4900153220&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="http://www.scimagojr.com/journal_img.php?id=4900153220&amp;title=true" alt="SCImago Journal &amp; Country Rank"  /></a>
 
