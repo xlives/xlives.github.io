@@ -23,6 +23,6 @@ This completes the proof.
 
 ## More Details
 
-1. [http://www.personal.kent.edu/~rmuhamma/Philosophy/Logic/ProofTheory/proof_by_contradictionExamples.htm](http://www.personal.kent.edu/~rmuhamma/Philosophy/Logic/ProofTheory/proof_by_contradictionExamples.htm)
+1. [Link to Proof Theory section of Prof. Rashid's homepage](http://www.personal.kent.edu/~rmuhamma/Philosophy/Logic/ProofTheory/proof_by_contradictionExamples.htm)
 
-2. [https://en.wikipedia.org/wiki/Proof_by_contradiction](https://en.wikipedia.org/wiki/Proof_by_contradiction)
+2. [Link to Wikipedia page](https://en.wikipedia.org/wiki/Proof_by_contradiction)
