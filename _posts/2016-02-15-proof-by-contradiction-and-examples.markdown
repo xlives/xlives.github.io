@@ -3,7 +3,7 @@ published: true
 title: Proof by Contradiction and Examples
 layout: post
 ---
-Given a set of premises S, a proposition P, and a contradiction ![drawing](https://upload.wikimedia.org/math/a/c/d/acdde4546e7f6f9ddc14b249bae02cac.png), the proof by contradiction is represented as: 
+Given a set of premises S, a proposition P, and a contradiction ![drawing](https://upload.wikimedia.org/math/a/c/d/acdde4546e7f6f9ddc14b249bae02cac.png){: .floatright}, the proof by contradiction is represented as: 
 
 S ![drawing](https://upload.wikimedia.org/math/d/3/e/d3ead5ae181602085f5c1f2ec3ce0dac.png) {![drawing](https://upload.wikimedia.org/math/0/2/3/023b800a1806490ff857cf9d69a260df.png) P} ![drawing](https://upload.wikimedia.org/math/f/5/a/f5ab88471b2365266e85c7840a63edd5.png) ![drawing](https://upload.wikimedia.org/math/a/c/d/acdde4546e7f6f9ddc14b249bae02cac.png) implies S ![drawing](https://upload.wikimedia.org/math/f/5/a/f5ab88471b2365266e85c7840a63edd5.png) P
 
