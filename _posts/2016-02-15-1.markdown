@@ -12,6 +12,6 @@ layout: post
 1. แสดงบัตร Resident Card ที่ ตม
 2. ติ้กถูกช่อง Special Reentry ที่บัตรขาออก (ตามรูป)
 
-![alt text](http://www.immi-moj.go.jp/newimmiact_1/en/image/ed_en.jpg "Special Reentry Example"){:.some-css-class style="width: 600px"}
+![alt text](http://www.immi-moj.go.jp/newimmiact_1/en/image/ed_en.jpg "Special Reentry Example"){:.some-css-class style="width: 700px"}
 
 For non-Thai readers, please follow this [link](http://www.immi-moj.go.jp/newimmiact_1/en/point_3-4.html).
