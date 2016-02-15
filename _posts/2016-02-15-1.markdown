@@ -7,11 +7,11 @@ layout: post
 
 อย่างไรก็ตาม หากเราต้องการ เข้า-ออก และ ออกจากญี่ปุ่นระยะสั้น **(น้อยกว่า หรือ เท่ากับ 1 ปี)** เราสามารถใช้สิทธิ **Special Reentry** ได้ ซึ่งสิทธินี้จะมีในทุกคนที่ถือ Resident Card
 
-##วิธีการทำ Special Reentry##
+## วิธีการทำ Special Reentry##
 
 1. แสดงบัตร Resident Card ที่ ตม
 2. ติ้กถูกช่อง Special Reentry ที่บัตรขาออก (ตามรูป)
 
-![alt text](http://www.immi-moj.go.jp/newimmiact_1/en/image/ed_en.jpg "Special Reentry Example"){:.some-css-class style="width: 700px"}
+![alt text](http://www.immi-moj.go.jp/newimmiact_1/en/image/ed_en.jpg "Special Reentry Example"){:.some-css-class style="width: 800px"}
 
 For non-Thai readers, please follow this [link](http://www.immi-moj.go.jp/newimmiact_1/en/point_3-4.html).
