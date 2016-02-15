@@ -5,7 +5,7 @@ layout: post
 ---
 Given a set of premises S, a proposition P, and a contradiction F, the proof by contradiction is represented as: 
 
-S u {~P} \|= implies S \|= P
+S U {~P} \|= implies S \|= P
 
 ## Example
 
