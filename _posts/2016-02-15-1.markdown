@@ -1,0 +1,17 @@
+---
+published: true
+title: วิธีเดินทางออกนอกญี่ปุ่นไม่เกิน 1 ปี
+layout: post
+---
+โดยปกติ การถือ Single Visa ทำให้เราได้สิทธิในการออกนอกประเทศที่มาอาศัยเพียงครั้งเดียว (ถึงเรียก "Single") หากต้องการสิทธิที่ใช้สำหรับ เข้า-ออก มากกว่า 1 ครั้ง เราต้องขอสิทธิ Reentry Permission เมื่อเราได้สิทธิมาแล้ว จะทำให้เราสามารถออกนอกประเทศได้เป็นระยะเวลานานถึง 5 ปี และ เข้า-ออกกี่ครั้งก็ได้
+
+อย่างไรก็ตาม หากเราต้องการ เข้า-ออก และ ออกจากญี่ปุ่นระยะสั้น **(น้อยกว่า หรือ เท่ากับ 1 ปี)** เราสามารถใช้สิทธิ **Special Reentry** ได้ ซึ่งสิทธินี้จะมีในทุกคนที่ถือ Resident Card
+
+##วิธีการทำ Special Reentry##
+
+1. แสดงบัตร Resident Card ที่ ตม
+2. ติ้กถูกช่อง Special Reentry ที่บัตรขาออก (ตามรูป)
+
+![alt text](http://www.immi-moj.go.jp/newimmiact_1/en/image/ed_en.jpg "Special Reentry Example")
+
+For non-Thai readers, please follow this [link](http://www.immi-moj.go.jp/newimmiact_1/en/point_3-4.html).
