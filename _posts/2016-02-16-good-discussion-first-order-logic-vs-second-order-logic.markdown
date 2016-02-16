@@ -1,6 +1,6 @@
 ---
 published: true
-title: [Good Discussion] First-order Logic vs Second-order Logic
+title: Discussion: First-order Logic vs Second-order Logic
 layout: post
 ---
 Check out the following links:
