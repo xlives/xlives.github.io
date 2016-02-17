@@ -1,6 +1,6 @@
 ---
 published: true
-title: Life@JAIST: Doing sports in Miyatake
+title: Life-at-JAIST Doing sports in Miyatake
 layout: post
 ---
 ## In Miyatake
