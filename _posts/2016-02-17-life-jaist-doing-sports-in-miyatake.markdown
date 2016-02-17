@@ -3,7 +3,6 @@ published: true
 title: Life-at-JAIST Doing sports in Miyatake
 layout: post
 ---
-## In Miyatake
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sjp!4v1455706638091!6m8!1m7!1s6TwOU3lsrPji6FrSdHpeug!2m2!1d36.45159909291014!2d136.5868092471696!3f338.10975229594334!4f-6.375630950251775!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
