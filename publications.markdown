@@ -9,7 +9,7 @@ Journal Papers
 ---------------------
 
 *   Teeradaj Racharak. [Collaborative Planning Using Hierarchical Task Network](http://www.ijcte.org/index.php?m=content&c=index&a=show&catid=49&id=866){:target="_blank"}. 
-In: International Journal of Computer Theory and Engineering vol. 5, no. 3, pp. 557-561, 2013. Conference Papers
+In: International Journal of Computer Theory and Engineering vol. 5, no. 3, pp. 557-561, 2013.
 
 Conference Papers
 ---------------------
