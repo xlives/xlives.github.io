@@ -22,5 +22,12 @@ Let **n** be the finite set {1, 2, ..., *n*} where *n* is a positive integer.
 5. An *n*x*m* matrix is a family indexed by the cartesian product **nxm**.
 6. A net is a family indexed by a directed set.
 
+## Remark: Sequence
+
+Ones may observe that a sequence is a special type of indexed family accompanying the 
+notion of ordering, e.g. x_1 is before x_2. This notion is not presented in the indexed family 
+unless the indexing set has some sort of order relation defined on it.
+
 ## References
 * <https://en.wikipedia.org/wiki/Indexed_family>
+* <http://math.stackexchange.com/questions/1593384/what-is-the-difference-between-an-indexed-family-and-a-sequence>
