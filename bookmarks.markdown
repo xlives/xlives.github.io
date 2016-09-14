@@ -13,7 +13,7 @@ for Automated Theorem Proving](http://www.cs.miami.edu/~tptp/){:target="_blank"}
 * [
 Potassco, the Potsdam Answer Set Solving Collection, bundles tools for Answer Set Programming developed at the University of Potsdam](http://potassco.sourceforge.net/)(http://sw.opencyc.org/){:target="_blank"}
 
-⋅⋅* [Install clasp on Mac OSX](http://macappstore.org/clasp/){:target="_blank"}
+  * [Install clasp on Mac OSX](http://macappstore.org/clasp/){:target="_blank"}
 
 ## Programming Tools 
 
