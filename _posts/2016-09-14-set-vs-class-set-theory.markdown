@@ -35,7 +35,7 @@ despite it is not a set.
 
 ## Axiomatic Set Theory
 
-Naive set theory may give rise to paradoxes. Axiomatic set theory was originally devised to get rid of 
+Naive set theory may give rise to paradoxes. **Axiomatic set theory** was originally devised to get rid of 
 such paradoxes. Today, when mathematicians talk about *set theory* as a field, they usually mean axiomatic set theory. 
 Informal applications of set theory in other fields are sometimes referred to as applications of *naive set theory*, but 
 are understood to be justified in terms of an axiomatic system. 
