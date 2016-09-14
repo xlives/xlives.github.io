@@ -3,7 +3,7 @@ published: true
 title: Reading Articles 
 layout: page
 ---
-Following temporariry lists my current reading. Each of them is categozed subjectively into a category. 
+Following *temporariry* lists my current reading. Each of them is categozed subjectively into a category. 
 
 ## Academic Papers
 
