@@ -8,7 +8,7 @@ a family of real numbers, indexed by the integers is a collection of real number
 each integer is associated with one of the real numbers. 
 
 Formally, an indexed family is the same thing as a mathematical function, i.e. a function with a domain *J* and 
-codomain &X* is equivalent to a family of elements *X* indexed by elements of *J*. Their differences are only conceptual 
+codomain *X* is equivalent to a family of elements *X* indexed by elements of *J*. Their differences are only conceptual 
 basis. Indexed families are interpreted as collections instead of as functions. 
 
 ## Examples
