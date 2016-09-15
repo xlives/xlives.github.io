@@ -31,7 +31,9 @@ Burali-Forti paradox suggests that *the class of all ordinal numbers* is proper.
 Hence, the paradoxes tell us that some collections may not be sets. The notion of *proper class* tells us 
 that we can still talk about those collections even though they are not sets per se. 
 For instance, we can still talk about the collection of all ordinals or prove that some properties hold, 
-despite it is not a set.
+despite it is not a set, e.g.
+
+* The class of *ordinal numbers* is *well-ordered*.
 
 ## Axiomatic Set Theory
 
