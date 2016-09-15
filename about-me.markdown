@@ -9,9 +9,11 @@ layout: page
 
 I am a PhD student in the school of Information Science, [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/){:target="_blank"} (JAIST) (Ishikawa Prefecture, Japan) and in the school of Information, Computer, and Communication Technology  (ICT), [The Sirindhorn International Institute of Technology](http://www.siit.tu.ac.th/newsite/){:target="_blank"} (SIIT) (Pathum Thani, Thailand).
 
-My research interests are primarily about Logic and its application to Formal semantics. More specifically, my primary interests are about [Description Logics](https://en.wikipedia.org/wiki/Description_logic){:target="_blank"} and [Argumentation Framework](https://en.wikipedia.org/wiki/Argumentation_framework){:target="_blank"}. 
+My research interests comprises Artificial Intelligence, in particular Knowledge Representation and Reasoning using 
+diverse formalisms (e.g. [Description Logics](https://en.wikipedia.org/wiki/Description_logic){:target="_blank"} and [Argumentation Framework](https://en.wikipedia.org/wiki/Argumentation_framework){:target="_blank"}). I deal with 
+problems ranging from theoretical aspects, i.e. Logic and its application to Formal semantics, and empirically theoretic  development, e.g. Knowledge-based applications.
 
-Fortunately, not only having theoretical mindset, I am also interested in practical approaches for software development solutions. Being an open-minded software engineer, I have joined Agille66 community and Thai Programmer networks and help organising conferences in the free time.
+Fortunately, not only having academic contributions, I am also interested in practical approaches for software development solutions. Being an open-minded software engineer, I have joined Agille66 community and Thai Programmer networks and help organising conferences in the free time.
 
 See my official [CV](https://drive.google.com/file/d/0B3XK_HW-FzZaMldXMm52V3RpV2c/view){:target="_blank"}.
 
