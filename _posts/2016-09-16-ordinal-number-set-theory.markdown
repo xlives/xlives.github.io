@@ -11,6 +11,8 @@ generalised concept called *well-ordering* is introduced for infinite collection
 Every ordinal number is either zero, or a successor ordinal, or a limit ordinal. For example, 
 *0, 1, 2, ..., \omega, \omega + 1*, *\omega* is a limit ordinal because, for any smaller ordinal, there is another ordinal larger than it, but still less than *\omega*. Also, *1, 2, ...* and *\omega + 1* are successor ordinals. 
 
+Ordinals are distinct from cardinal numbers, which are useful for saying how many objects are in a collection. For finite sets, these two notions are not apparently different; however, different infinite ordinals may associate with the same cardinal. 
+
 ## Von Neumann Definition of Ordinals
 
 The standard definition, suggested by John von Neumann, is: *each ordinal is the well-ordered set of all smaller ordinals*, in symbols *x = [0, x)*. Formally, 
@@ -29,4 +31,4 @@ Furthermore, every well-ordered set is uniquely *order isomorphic* to a unique o
 ## References 
 
 * <https://en.wikipedia.org/wiki/Well-order>
-* <https://en.wikipedia.org/wiki/Ordinal_number> 
+* <https://en.wikipedia.org/wiki/Ordinal_number>
