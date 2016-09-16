@@ -43,3 +43,8 @@ Computational Models](https://cgi.csc.liv.ac.uk/~katie/waltonFest10.pdf){:target
 ### Logic Programming
 
 * [Resolution in Propositional and First-Order Logic](http://www.csee.umbc.edu/courses/graduate/691/spring12/03/notes/19resolution.pdf){:target="_blank"}
+
+
+## Wikipedia
+
+* [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems){:target="_blank"}
