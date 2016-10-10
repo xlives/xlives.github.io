@@ -16,3 +16,7 @@ This means *I will go to the park if I do not stay home*. Precisely speaking,
 
 * IF not home THEN park; or
 * IF not park THEN HOME.
+
+**Reference**
+
+* [http://www.alphascore.com/posts/x-unless-y-formal-logic-for-lsat-prep/](http://www.alphascore.com/posts/x-unless-y-formal-logic-for-lsat-prep/)
