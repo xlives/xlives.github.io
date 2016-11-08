@@ -14,6 +14,8 @@ In: International Journal of Computer Theory and Engineering vol. 5, no. 3, pp. 
 Conference Papers
 ---------------------
 
+*   Teeradaj Racharak and Satoshi Tojo and Nguyen Duy Hung and Prachya Boonkwan. Argument-based logic programming for analogical reasoning. In: Proceeding of Tenth International Workshop on
+Juris-informatics (JURISIN 2016). (2016)
 *   Teeradaj Racharak and Boontawee Suntisrivaraporn and Satoshi Tojo. [simπ: A Concept Similarity
 Measure under an Agent’s Preferences in Description Logic ELH](http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=3RqLc2P0Eiw=&t=1){:target="_blank"}. In Proceedings of The 8th
 International Conference on Agents and Artificial Intelligence. (2016) 480–487
