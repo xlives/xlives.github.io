@@ -15,7 +15,8 @@ problems ranging from theoretical aspects, i.e. Logic and its Formal semantics, 
 
 Fortunately, not only having academic contributions, I am also interested in social activities for software development solutions. Being an open-minded software engineer, I have joined Agille66 community and Thai Programmer networks and help organising conferences in the free time.
 
-See my official [CV](https://drive.google.com/file/d/0B3XK_HW-FzZaMldXMm52V3RpV2c/view){:target="_blank"}.
+See my official [CV](https://drive.google.com/file/d/0B3XK_HW-FzZaMldXMm52V3RpV2c/view){:target="_blank"} and 
+[publications](https://xlives.github.io/publications.html){:target="_blank"}.
 
 See my research projects [page](https://sites.google.com/site/tracharak/home){:target="_blank"}.
 
