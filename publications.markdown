@@ -8,12 +8,16 @@ If you are interested in any papers below, please send a request to: <r.teeradaj
 Journal Papers
 ---------------------
 
+*   Teeradaj Racharak and Boontawee Suntisrivaraporn and Satoshi Tojo. Personalizing a Concept Similarity Measure in the Description Logic ELH with Preference Profile. In: Computing and Informatics (to appear)
 *   Teeradaj Racharak. [Collaborative Planning Using Hierarchical Task Network](http://www.ijcte.org/index.php?m=content&c=index&a=show&catid=49&id=866){:target="_blank"}. 
 In: International Journal of Computer Theory and Engineering vol. 5, no. 3, pp. 557-561, 2013.
 
 Conference Papers
 ---------------------
 
+*   Teeradaj Racharak and Satoshi Tojo and Nguyen Duy Hung and Prachya Boonkwan. [Combining Answer Set Programming with Description Logics for Analogical Reasoning Under an Agent's Preferences](https://link.springer.com/chapter/10.1007%2F978-3-319-60045-1_33). In: Advances in Artificial Intelligence: From Theory to Practice - 30th International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems. (2017) 306 - 316
+*   Teeradaj Racharak and Satoshi Tojo. [Tuning Agent's Profile for Similarity Measure in Description Logic ELH.](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006249602870298) In: the 8th
+International Conference on Agents and Artificial Intelligence. (2017) 287 - 298
 *   Teeradaj Racharak and Satoshi Tojo and Nguyen Duy Hung and Prachya Boonkwan. Argument-based logic programming for analogical reasoning. In: Proceeding of the 10th International Workshop on
 Juris-informatics (JURISIN 2016). (2016) 73-86
 *   Teeradaj Racharak and Boontawee Suntisrivaraporn and Satoshi Tojo. [simπ: A Concept Similarity
