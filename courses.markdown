@@ -14,7 +14,7 @@ Present
     
 | Week / Number |               Topics              |    Handouts   |     External Materials     |
 |:----:|:---------------------------------:|:-----------:|:-----------:|
-|   1 / 1  | Overview of artificial intelligence; Basics in Python (Tensorflow) and Octave  |       |       | 
+|   1 / 1  | Overview of artificial intelligence; Basics in Python and Octave  |       |       | 
 |   1 / 2  | Linear regression with one variable    |      |       | 
 |   2  |      |      |       |
 |   3  |        |      |       | 
