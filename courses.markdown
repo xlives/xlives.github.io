@@ -8,7 +8,7 @@ Present
 ---------------------
 
 *   Artificial intelligence bootcamp at Thai Programmer Association & Software Park Thailand
-    *    **Objectives:** Overview the state-of-the-art technologies related to arfificial intelligence (AI) with the 
+    *    **Objectives:** Overview the state-of-the-art technologies related to artificial intelligence (AI) with the 
     primary focus on machine learning techniques. Students will learn about best practices in AI and experience 
     the development using widely-used technologies and tools (e.g. Tensorflow and Octave).
     
