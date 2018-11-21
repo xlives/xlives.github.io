@@ -14,9 +14,9 @@ Present
     
 | Week / Number |               Topics              |    Handouts   |     External Materials     |
 |:----:|:---------------------------------:|:-----------:|:-----------:|
-|   1 / 1  | -    Overview of artificial intelligence  -    Basics in Python (Tensorflow) and Octave  |       |       | 
-|   1 / 2  | <ul><li>Linear regression with one variable</li></ul>      |      |       | 
-|   2  |   <li>{:/}foo{::no-markdown}</li>    |      |       |
+|   1 / 1  | Overview of artificial intelligence; Basics in Python (Tensorflow) and Octave  |       |       | 
+|   1 / 2  | Linear regression with one variable    |      |       | 
+|   2  |      |      |       |
 |   3  |        |      |       | 
 |   4  |        |      |       | 
 |   5  |        |      |       | 
@@ -40,7 +40,7 @@ Following are some important notes:
     [this link](https://wiki.octave.org/Octave_for_macOS) for more detailed information. 
     *   For Windows users, you can install using the installer provided on the web page (i.e. 'octave-4.4.1-w64-installer.exe')
 *   Download and install [Pycharm](https://www.jetbrains.com/pycharm/).
-    *   Though this course recommends to use Pycharm, any preferred IDE can be used.
+    *   Though Pycharm is recommended, any preferred IDE can be used.
 
 Course taught in the past
 ---------------------
