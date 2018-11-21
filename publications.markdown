@@ -32,7 +32,7 @@ similarity measures in description logics](http://link.springer.com/chapter/10.1
 Conference (JIST), Yichang, China, pp. 201-208, 2015
 6.  Teeradaj Racharak and Boontawee Suntisrivaraporn, [Similarity measures for FL0 concept descriptions from an 
 automata-theoretic point of view](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7110811&newsearch=true&queryText=Teeradaj%20Racharak%20), In Proceedings of the 6th annual International Conference on Information and 
-Communication Technology for Embedded Systems (IC-ICTES), Hua Hin, Thailand, pp. 1 - 6, 2015 (“Best Presentation Award”)
+Communication Technology for Embedded Systems (IC-ICTES), Hua Hin, Thailand, pp. 1 - 6, 2015 **(“Best Presentation Award”)**
 
 Peer-reviewed International Workshop Papers
 ---------------------
