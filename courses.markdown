@@ -29,7 +29,7 @@ Present
 |   12  |        |      |       | 
 
 Preparation:
-*   Follow this [link](https://www.tensorflow.org/install/pip) to install Python development environment on your system. 
+*   Follow this [link](https://www.tensorflow.org/install/pip) to install python development environment on your system. 
 Following are some important notes:
     *   Requires Python 3.4, 3.5, or 3.6. Type 'python --version' on your command prompt to verify your installed python.
     *   Creates a virtual environment to isolate package installation. Conda may be used to create one, if preferred. 
@@ -49,7 +49,7 @@ Courses taught in the past
 *   Android application development
 *   Basic programming (Java)
 *   Best practices for architecting web apis
-*   Cucumber for java developers
+*   Cucumber for Java developers
 *   Data analytics using Microsoft Excel
 *   Database administrations
 *   Discrete mathematics
@@ -57,6 +57,6 @@ Courses taught in the past
 *   Introduction to argumentation framework
 *   Introduction to description logics
 *   Introduction to modal logic
-*   Introduction to spring framework
+*   Introduction to Spring framework
 *   Logical inference and knowledge representation
 *   Object-oriented laboratory (Java)
