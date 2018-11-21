@@ -42,7 +42,7 @@ Following are some important notes:
 *   Download and install [Pycharm](https://www.jetbrains.com/pycharm/).
     *   Though Pycharm is recommended, any preferred IDE can be used.
 
-Course taught in the past
+Courses taught in the past
 ---------------------
 
 *   Algorithm design
