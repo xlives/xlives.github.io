@@ -35,5 +35,6 @@ About my additional information, see the following pages as follows:
   * my [publications](https://xlives.github.io/publications.html){:target="_blank"}
   * my [DBLP](https://dblp.org/pers/hd/r/Racharak:Teeradaj){:target="_blank"} (computer science bibliography)
   * my [google scholar citations](https://scholar.google.co.th/citations?user=x3J3MPEAAAAJ&hl=en){:target="_blank"}
+  * my [researchgate](https://www.researchgate.net/profile/Teeradaj_Racharak){:target="_blank"}
 
 Thanks a lot for visiting this site! If you want to further discuss with me, please email to <r.teeradaj@gmail.com>.
