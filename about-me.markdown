@@ -10,7 +10,7 @@ layout: page
 Welcome to Teeradaj's homepage! 
 
 I did my Ph.D in Information Science (Computational Logic) at [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/){:target="_blank"} (JAIST). 
-Currently, I am a special lecturer at (both public and private) universities and technological consultants 
+Currently, I am a special lecturer at (both public and private) universities and a technological consultant 
 (per requested). My research interests are twofold as follows: 
 1. Computational logic in artificial intelligence 
   * Knowledge and information can be represented by using diverse formalisms (e.g. description logics, answer set 
