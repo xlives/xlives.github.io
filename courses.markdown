@@ -14,7 +14,7 @@ Present
     
 | Week / Number |               Topics              |    Handouts   |     External Materials     |
 |:----:|:---------------------------------:|:-----------:|:-----------:|
-|   1 / 1  | Overview of artificial intelligence; Basics in Python and Octave  |       |       | 
+|   1 / 1  | Overview of artificial intelligence (Knowledge-driven AI & Data-driven AI); Basics in Python and Octave  |       | [Semantic Web Technology](https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725);      | 
 |   1 / 2  | Linear regression with one variable    |      |       | 
 |   2  |      |      |       |
 |   3  |        |      |       | 
