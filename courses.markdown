@@ -10,7 +10,7 @@ Present
 *   Artificial intelligence bootcamp at Thai Programmer Association & Software Park Thailand
     *    **Objectives:** Overview the state-of-the-art technologies related to artificial intelligence (AI) with the 
     primary focus on machine learning techniques. Students will learn about best practices in AI and experience 
-    the development using widely-used technologies and tools (e.g. Tensorflow and Octave).
+    the development using widely-used technologies and tools (e.g. TensorFlow and Octave).
     *    **Location:** [BB Co-Meeting Space](https://goo.gl/maps/fCSZ89ikkp92) BTS ช่องนนทรี (ไม่มีที่จอดรถ)
           * การเดินทางจาก BTS ช่องนนทรี: <https://www.youtube.com/watch?v=uJsRg-VmmMU>
           * การเดินทางจาก BTS ศาลาแดง <https://www.youtube.com/watch?v=atVx7jrVMqM>
@@ -26,7 +26,7 @@ Present
 | Week / Number |               Topics              |    Handouts   |     External Materials     |
 |:----:|:---------------------------------:|:-----------:|:-----------:|
 |   1 / 1  | Overview of artificial intelligence (Knowledge-driven AI & Data-driven AI); Basics in Python |  [Overview of AI](https://drive.google.com/file/d/1n07K8FI3Gr1I8hfvG1YQL5kAYCn2bvss/view?usp=sharing);  [Python Cheat Sheet](https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing)   |  [Semantic Web Technology](https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725);     | 
-|   1 / 2  | Linear regression with one variable    |      |       | 
+|   1 / 2  | Having fun with TensorFlow; Linear regression with one variable |      |       | 
 |   2  |      |      |       |
 |   3  |        |      |       | 
 |   4  |        |      |       | 
