@@ -11,10 +11,9 @@ Present
     *    **Objectives:** Overview the state-of-the-art technologies related to artificial intelligence (AI) with the 
     primary focus on machine learning techniques. Students will learn about best practices in AI and experience 
     the development using widely-used technologies and tools (e.g. Tensorflow and Octave).
-    *    **Location:** BB Co-Meeting Space BTS ช่องนนทรี (ไม่มีที่จอดรถ)
+    *    **Location:** [BB Co-Meeting Space](https://goo.gl/maps/fCSZ89ikkp92) BTS ช่องนนทรี (ไม่มีที่จอดรถ)
           * การเดินทางจาก BTS ช่องนนทรี: <https://www.youtube.com/watch?v=uJsRg-VmmMU>
           * การเดินทางจาก BTS ศาลาแดง <https://www.youtube.com/watch?v=atVx7jrVMqM>
-          * พิกัดบน Google Maps <https://goo.gl/maps/fCSZ89ikkp92>
           * (สถานที่จอดรถ) อาคาร CP Tower ค่าจอดรถ ชม.ละ 30- หรือ เหมาจ่าย 240- เต็มวัน (ซื้อของในตึกเขา ปั้มจอดฟรี 2 ชม.)
           * (สถานที่จอดรถ) อาคาร Liberty Square ส อา และ วันหยุดนักขัตฤกษ์ เหมาจ่าย 100- (6:00-17:00) 
                   (เหมาทั้งวันถึง 17.00 น. จ่าย 100 บาท ส่วนเกินชั่วโมงละ 50 บาท)
