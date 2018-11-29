@@ -41,12 +41,13 @@ Present
        <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
        <li> What is machine learning? </li>
        <li> Linear regression with one variable </li> 
+       <li> First TensorFlow tutorial </li> 
        <li> Assignment 1 </li> 
     </td>
     <td> 
-          <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'> Debugging TensorFlow's Project with Pycharm </a> </li>
-          <li> <a href='https://github.com/tensorflow/tensorboard'>TensorFlow's Visualization Toolkit</a> </li>
-          <li> <a href='https://www.tensorflow.org/guide/graph_viz'>TensorFlow's Graph Visualization</a> </li> 
+          <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'> Debugging TensorFlow's project with Pycharm </a> </li>
+          <li> <a href='https://github.com/tensorflow/tensorboard'>TensorFlow's Visualization toolkit</a> </li>
+          <li> <a href='https://www.tensorflow.org/guide/graph_viz'>TensorFlow's Graph visualization</a> </li> 
     </td>
   </tr>
   <tr>
@@ -71,45 +72,45 @@ Present
   </tr>
    <tr>
     <td align='center'>6</td>
-    <td> <li> Neural Network (Part 1: Forward Propagation) </li> 
-       <li> [Lab] Neural Network (Part 1: Forward Propagation) </li> </td>
+    <td> <li> Neural network (Part 1: forward propagation) </li> 
+       <li> [Lab] Neural network (Part 1: forward propagation) </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>7</td>
-    <td> <li> Neural Network (Part 2: Backpropagation) </li> 
-       <li> [Lab] Neural Network (Part 2: Backpropagation) </li> </td>
+    <td> <li> Neural network (Part 2: backpropagation) </li> 
+       <li> [Lab] Neural network (Part 2: backpropagation) </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>8</td>
-    <td> <li> Learning Theory </li> 
+    <td> <li> Learning theory </li> 
        <li> Assignment 3 </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>9</td>
-    <td> <li> Support Vector Machines </li> 
-       <li> [Lab] Support Vector Machines </li> </td>
+    <td> <li> Support vector machines </li> 
+       <li> [Lab] Support vector machines </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>10</td>
-    <td> <li> Unsupervised Learning </li> 
-       <li> Dimenstionality Reduction </li>
+    <td> <li> Unsupervised learning </li> 
+       <li> Dimenstionality reduction </li>
        <li> [Lab] How to manage experiments in TensorFlow </li></td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>11</td>
-    <td> <li> Convolutional Neural Network </li> 
-       <li> [Lab] Convolutional Neural Network </li> </td>
+    <td> <li> Convolutional neural network </li> 
+       <li> [Lab] Convolutional neural network </li> </td>
      <td> </td>
   </tr>
       <tr>
     <td align='center'>12</td>
-    <td> <li> [Lab] Advanced Topic in TensorFlow: Input Pipeline </li> 
-       <li> AI Reasoning: Logical Inference and Knowledge Representation </li> </td>
+    <td> <li> [Lab] Advanced topic in TensorFlow: input pipeline </li> 
+       <li> AI Reasoning: Logical inference and knowledge representation </li> </td>
      <td> <a href='https://www.youtube.com/watch?v=Mq2hvU6sGlo&t=1787s'>Talk: How a machine even argue?</a> </td>
   </tr>
 </table>          
