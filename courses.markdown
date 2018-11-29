@@ -98,7 +98,7 @@ Present
   </tr>
       <tr>
     <td align='center'>12</td>
-    <td> <li> Advanced Topic in TensorFlow: Input Pipeline </li> 
+    <td> <li> [Lab] Advanced Topic in TensorFlow: Input Pipeline </li> 
        <li> AI Reasoning: Knowledge Representation and Reasoning </li> </td>
      <td> </td>
   </tr>
