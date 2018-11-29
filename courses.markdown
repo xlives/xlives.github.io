@@ -19,9 +19,6 @@ Present
                   (เหมาทั้งวันถึง 17.00 น. จ่าย 100 บาท ส่วนเกินชั่วโมงละ 50 บาท)
           * (สถานที่จอดรถ) อาคารโอเอซิส เฉพาะเสาร์ อาทิตย์ ค่าจอด ชม. ละ 30-
           * (สถานที่จอดรถ) ใกล้สุด อาคารยูไนเต็ด หรือ อาคาร ทรินิตี้ ค่าจอดรถ ชม.ละ 30- ค่าจอดมอไซค์ ชม.ละ 20-
-    *     **Addtional Materials:**
-          * [TensorFlow's Visualization Toolkit](https://github.com/tensorflow/tensorboard)
-          * [TensorFlow's Graph Visualization](https://www.tensorflow.org/guide/graph_viz)
           
 <table align='center'>
   <tr>
@@ -39,7 +36,8 @@ Present
     <td> <ul> <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
        <li> What is machine learning? </li>
        <li> Linear regression with one variable </li> </ul> </td>
-     <td> </td>
+     <td> <li> <a href='https://github.com/tensorflow/tensorboard'>TensorFlow's Visualization Toolkit</a>
+          <a href='https://www.tensorflow.org/guide/graph_viz'>TensorFlow's Graph Visualization</a> </li> </td>
   </tr>
   <tr>
     <td align='center'>3</td>
