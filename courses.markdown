@@ -43,7 +43,7 @@ Present
        <li> Assignment 1 </li> 
     </td>
     <td> 
-          <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'> Debugging TensorFlow's project with Pycharm </a> </li>
+          <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'>VDO: Debugging TensorFlow's project with Pycharm </a> </li>
           <li> <a href='https://github.com/tensorflow/tensorboard'>TensorFlow's Visualization toolkit</a> </li>
           <li> <a href='https://www.tensorflow.org/guide/graph_viz'>TensorFlow's Graph visualization</a> </li> 
     </td>
