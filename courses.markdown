@@ -36,7 +36,9 @@ Present
     <td> <ul> <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
        <li> What is machine learning? </li>
        <li> Linear regression with one variable </li> </ul> </td>
-     <td> <li> <a href='https://github.com/tensorflow/tensorboard'>TensorFlow's Visualization Toolkit</a> </li>
+     <td> 
+          <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'> Debugging TensorFlow's Project with Pycharm </a> </li>
+          <li> <a href='https://github.com/tensorflow/tensorboard'>TensorFlow's Visualization Toolkit</a> </li>
           <li> <a href='https://www.tensorflow.org/guide/graph_viz'>TensorFlow's Graph Visualization</a> </li> </td>
   </tr>
   <tr>
