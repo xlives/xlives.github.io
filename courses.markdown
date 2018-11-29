@@ -10,7 +10,7 @@ Present
 *   Artificial intelligence bootcamp at Thai Programmer Association & Software Park Thailand
     *    **Objectives:** Overview the state-of-the-art technologies related to artificial intelligence (AI) with the 
     primary focus on machine learning techniques. Students will learn about best practices in AI and experience 
-    the development using widely-used technologies and tools (e.g. TensorFlow).
+    the development using widely-used technologies and tools.
     *    **Location:** [BB Co-Meeting Space](https://goo.gl/maps/fCSZ89ikkp92) BTS ช่องนนทรี (ไม่มีที่จอดรถ)
           * (สถานที่จอดรถ) อาคาร CP Tower ค่าจอดรถ ชม.ละ 30- หรือ เหมาจ่าย 240- เต็มวัน (ซื้อของในตึกเขา ปั้มจอดฟรี 2 ชม.)
           * (สถานที่จอดรถ) อาคาร Liberty Square ส อา และ วันหยุดนักขัตฤกษ์ เหมาจ่าย 100- (6:00-17:00) 
