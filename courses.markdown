@@ -27,18 +27,19 @@ Present
   <tr>
     <th align='center'>Week</th>
     <th>Topics</th>
-    <th>Handouts</th>
      <th>External Materials</th>
   </tr>
   <tr>
     <td align='center'>1</td>
-    <td> <ul> <li> Overview of artificial intelligence </li> <li> Basics in python </li> </ul> </td>
+    <td> <ul> <li> [Overview of artificial intelligence](https://drive.google.com/drive/folders/1bi4SSM9kF0klnk-HwurDrRBPubhSvGmF?usp=sharing) </li> <li> [Lab] [Basics in python](https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing) </li> </ul> </td>
     <td> </td>
-     <td> </td>
+     <td> [Semantic Web Technology](https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725) </td>
   </tr>
   <tr>
     <td align='center'>2</td>
-    <td>Francisco Chang</td>
+    <td> <ul> <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
+       <li> What is machine learning? </li>
+       <li> Linear regression with one variable </li> </li> </ul> </td>
     <td> </td>
      <td> </td>
   </tr>
@@ -50,21 +51,69 @@ Present
   </tr>
   <tr>
     <td align='center'>4</td>
-    <td>Helen Bennett</td>
+    <td> 
+       <li> [Lab] Linear regression with one variables </li>
+       <li> Linear regression with multiple variables </li>
+       <li> Assignment 1 </li></td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td align='center'>5</td>
+    <td> <li> Logistic regression </li> 
+       <li> [Lab] Logistic regression </li> </td>
     <td> </td>
      <td> </td>
   </tr>
   <tr>
-    <td align='center'>5</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-     <td>Canada</td>
-  </tr>
-  <tr>
     <td align='center'>6</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-     <td>Italy</td>
+    <td> <li> Regularization </li> 
+       <li> [Lab] Regularization </li> </td>
+    <td> </td>
+     <td> </td>
+  </tr>
+   <tr>
+    <td align='center'>7</td>
+    <td> <li> Neural Network (Part 1: Forward Propagation) </li> 
+       <li> [Lab] Neural Network (Part 1: Forward Propagation) </li> </td>
+    <td> </td>
+     <td> </td>
+  </tr>
+   <tr>
+    <td align='center'>8</td>
+    <td> <li> Neural Network (Part 2: Backpropagation) </li> 
+       <li> [Lab] Neural Network (Part 2: Backpropagation) </li> </td>
+    <td> </td>
+     <td> </td>
+  </tr>
+   <tr>
+    <td align='center'>9</td>
+    <td> <li> Learning Theory </li> 
+       <li> Assignment 2 </li> </td>
+    <td> </td>
+     <td> </td>
+  </tr>
+   <tr>
+    <td align='center'>10</td>
+    <td> <li> Support Vector Machines </li> 
+       <li> [Lab] Support Vector Machines </li> </td>
+    <td> </td>
+     <td> </td>
+  </tr>
+   <tr>
+    <td align='center'>11</td>
+    <td> <li> Unsupervised Learning </li> 
+       <li> Dimenstionality Reduction </li>
+       <li> [Lab] How to manage experiments in TensorFlow </li></td>
+    <td> </td>
+     <td> </td>
+  </tr>
+   <tr>
+    <td align='center'>12</td>
+    <td> <li> Convolutional Neural Network </li> 
+       <li> [Lab] Convolutional Neural Network </li> </td>
+    <td> </td>
+     <td> </td>
   </tr>
 </table>          
           
