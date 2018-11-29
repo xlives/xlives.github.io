@@ -28,7 +28,7 @@ Present
     <td align='center'>1</td>
     <td> 
        <li> <a href='https://drive.google.com/drive/folders/1bi4SSM9kF0klnk-HwurDrRBPubhSvGmF?usp=sharing'>Overview of artificial intelligence</a> </li> 
-       <li> [Lab] <a href='https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing'>Basics in python</a> </li> 
+       <li> [Lab#0] <a href='https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing'>Basics in python</a> </li> 
     </td>
     <td> <a href='https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725'>Semantic Web Technology</a> 
     </td>
@@ -36,11 +36,11 @@ Present
   <tr>
     <td align='center'>2</td>
     <td> 
-       <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
+       <li> [Lab#1] Basics in TensorFlow and TensorBoard </li> 
        <li> What is machine learning? </li>
        <li> Linear regression with one variable </li> 
        <li> <a href='https://drive.google.com/file/d/1sDu61YvlBUeyC38QZr3jTUH2vX2JQ7bP/view?usp=sharing'>First TensorFlow tutorial</a> </li> 
-       <li> Assignment 1 </li> 
+       <li> Assignment#1 </li> 
     </td>
     <td> 
           <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'>VDO: Debugging TensorFlow's project with Pycharm </a> </li>
@@ -51,63 +51,63 @@ Present
   <tr>
     <td align='center'>3</td>
     <td> 
-       <li> [Lab] Linear regression with one variables </li>
+       <li> [Lab#2] Linear regression with one variables </li>
        <li> Linear regression with multiple variables </li>
-       <li> Assignment 2 </li></td>
+       <li> Assignment#2 </li></td>
     <td> </td>
   </tr>
   <tr>
     <td align='center'>4</td>
     <td> <li> Logistic regression </li> 
-       <li> [Lab] Logistic regression </li> </td>
+       <li> [Lab#3] Logistic regression </li> </td>
      <td> </td>
   </tr>
   <tr>
     <td align='center'>5</td>
     <td> <li> Regularization </li> 
-       <li> [Lab] Regularization </li> </td>
+       <li> [Lab#4] Regularization </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>6</td>
     <td> <li> Neural network (Part 1: forward propagation) </li> 
-       <li> [Lab] Neural network (Part 1: forward propagation) </li> </td>
+       <li> [Lab#5] Neural network (Part 1: forward propagation) </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>7</td>
     <td> <li> Neural network (Part 2: backpropagation) </li> 
-       <li> [Lab] Neural network (Part 2: backpropagation) </li> </td>
+       <li> [Lab#6] Neural network (Part 2: backpropagation) </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>8</td>
     <td> <li> Learning theory </li> 
-       <li> Assignment 3 </li> </td>
+       <li> Assignment#3 </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>9</td>
     <td> <li> Support vector machines </li> 
-       <li> [Lab] Support vector machines </li> </td>
+       <li> [Lab#7] Support vector machines </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>10</td>
     <td> <li> Unsupervised learning </li> 
        <li> Dimenstionality reduction </li>
-       <li> [Lab] How to manage experiments in TensorFlow </li></td>
+       <li> [Lab#8] How to manage experiments in TensorFlow </li></td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>11</td>
     <td> <li> Convolutional neural network </li> 
-       <li> [Lab] Convolutional neural network </li> </td>
+       <li> [Lab#9] Convolutional neural network </li> </td>
      <td> </td>
   </tr>
       <tr>
     <td align='center'>12</td>
-    <td> <li> [Lab] Advanced topic in TensorFlow: input pipeline </li> 
+    <td> <li> [Lab#10] Advanced topic in TensorFlow: input pipeline </li> 
        <li> AI Reasoning: Logical inference and knowledge representation </li> </td>
      <td> <a href='https://www.youtube.com/watch?v=Mq2hvU6sGlo&t=1787s'>Talk: How a machine even argue?</a> </td>
   </tr>
