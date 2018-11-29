@@ -38,7 +38,7 @@ Present
     <td align='center'>2</td>
     <td> <ul> <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
        <li> What is machine learning? </li>
-       <li> Linear regression with one variable </li> </li> </ul> </td>
+       <li> Linear regression with one variable </li> </ul> </td>
      <td> </td>
   </tr>
   <tr>
@@ -104,23 +104,7 @@ Present
      <td> </td>
   </tr>
 </table>          
-          
-| Week / Number |               Topics              |    Handouts   |     External Materials     |
-|:----:|:---------------------------------:|:-----------:|:-----------:|
-|   1 / 1  | Overview of artificial intelligence (Knowledge-driven AI & Data-driven AI); Basics in Python |  [Overview of AI](https://drive.google.com/drive/folders/1bi4SSM9kF0klnk-HwurDrRBPubhSvGmF?usp=sharing);  [Python Cheat Sheet](https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing)   |  [Semantic Web Technology](https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725);     | 
-|   1 / 2  | Having fun with TensorFlow; Linear regression with one variable |      |       | 
-|   2  |      |      |       |
-|   3  |        |      |       | 
-|   4  |        |      |       | 
-|   5  |        |      |       | 
-|   6  |        |      |       | 
-|   7  |        |      |       | 
-|   8  |        |      |       | 
-|   9  |        |      |       | 
-|   10  |        |      |       | 
-|   11  |        |      |       | 
-|   12  |        |      |       | 
-
+     
 Preparation:
 *   Follow this [link](https://www.tensorflow.org/install/pip) to install python development environment on your system. 
 Following are some important notes:
