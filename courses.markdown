@@ -35,7 +35,8 @@ Present
     <td align='center'>2</td>
     <td> <ul> <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
        <li> What is machine learning? </li>
-       <li> Linear regression with one variable </li> </ul> </td>
+       <li> Linear regression with one variable </li> 
+       <li> Assignment 1 </li> </ul> </td>
      <td> 
           <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'> Debugging TensorFlow's Project with Pycharm </a> </li>
           <li> <a href='https://github.com/tensorflow/tensorboard'>TensorFlow's Visualization Toolkit</a> </li>
@@ -46,7 +47,7 @@ Present
     <td> 
        <li> [Lab] Linear regression with one variables </li>
        <li> Linear regression with multiple variables </li>
-       <li> Assignment 1 </li></td>
+       <li> Assignment 2 </li></td>
     <td> </td>
   </tr>
   <tr>
@@ -76,7 +77,7 @@ Present
    <tr>
     <td align='center'>8</td>
     <td> <li> Learning Theory </li> 
-       <li> Assignment 2 </li> </td>
+       <li> Assignment 3 </li> </td>
      <td> </td>
   </tr>
    <tr>
