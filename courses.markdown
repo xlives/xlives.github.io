@@ -43,11 +43,6 @@ Present
   </tr>
   <tr>
     <td align='center'>3</td>
-    <td>Roland Mendel</td>
-     <td> </td>
-  </tr>
-  <tr>
-    <td align='center'>4</td>
     <td> 
        <li> [Lab] Linear regression with one variables </li>
        <li> Linear regression with multiple variables </li>
@@ -55,52 +50,58 @@ Present
     <td> </td>
   </tr>
   <tr>
-    <td align='center'>5</td>
+    <td align='center'>4</td>
     <td> <li> Logistic regression </li> 
        <li> [Lab] Logistic regression </li> </td>
      <td> </td>
   </tr>
   <tr>
-    <td align='center'>6</td>
+    <td align='center'>5</td>
     <td> <li> Regularization </li> 
        <li> [Lab] Regularization </li> </td>
      <td> </td>
   </tr>
    <tr>
-    <td align='center'>7</td>
+    <td align='center'>6</td>
     <td> <li> Neural Network (Part 1: Forward Propagation) </li> 
        <li> [Lab] Neural Network (Part 1: Forward Propagation) </li> </td>
      <td> </td>
   </tr>
    <tr>
-    <td align='center'>8</td>
+    <td align='center'>7</td>
     <td> <li> Neural Network (Part 2: Backpropagation) </li> 
        <li> [Lab] Neural Network (Part 2: Backpropagation) </li> </td>
      <td> </td>
   </tr>
    <tr>
-    <td align='center'>9</td>
+    <td align='center'>8</td>
     <td> <li> Learning Theory </li> 
        <li> Assignment 2 </li> </td>
      <td> </td>
   </tr>
    <tr>
-    <td align='center'>10</td>
+    <td align='center'>9</td>
     <td> <li> Support Vector Machines </li> 
        <li> [Lab] Support Vector Machines </li> </td>
      <td> </td>
   </tr>
    <tr>
-    <td align='center'>11</td>
+    <td align='center'>10</td>
     <td> <li> Unsupervised Learning </li> 
        <li> Dimenstionality Reduction </li>
        <li> [Lab] How to manage experiments in TensorFlow </li></td>
      <td> </td>
   </tr>
    <tr>
-    <td align='center'>12</td>
+    <td align='center'>11</td>
     <td> <li> Convolutional Neural Network </li> 
        <li> [Lab] Convolutional Neural Network </li> </td>
+     <td> </td>
+  </tr>
+      <tr>
+    <td align='center'>12</td>
+    <td> <li> Advanced Topic in TensorFlow: Input Pipeline </li> 
+       <li> AI Reasoning: Knowledge Representation and Reasoning </li> </td>
      <td> </td>
   </tr>
 </table>          
