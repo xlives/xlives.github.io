@@ -23,6 +23,51 @@ Present
           * [TensorFlow's Visualization Toolkit](https://github.com/tensorflow/tensorboard)
           * [TensorFlow's Graph Visualization](https://www.tensorflow.org/guide/graph_viz)
           
+<table align='center'>
+  <tr>
+    <th align='center'>Week</th>
+    <th>Topics</th>
+    <th>Handouts</th>
+     <th>External Materials</th>
+  </tr>
+  <tr>
+    <td align='center'>1</td>
+    <td> <ul> <li> Overview of artificial intelligence </li> <li> Basics in python </li> </ul> </td>
+    <td> </td>
+     <td> </td>
+  </tr>
+  <tr>
+    <td align='center'>2</td>
+    <td>Francisco Chang</td>
+    <td> </td>
+     <td> </td>
+  </tr>
+  <tr>
+    <td align='center'>3</td>
+    <td>Roland Mendel</td>
+    <td> </td>
+     <td> </td>
+  </tr>
+  <tr>
+    <td align='center'>4</td>
+    <td>Helen Bennett</td>
+    <td> </td>
+     <td> </td>
+  </tr>
+  <tr>
+    <td align='center'>5</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+     <td>Canada</td>
+  </tr>
+  <tr>
+    <td align='center'>6</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+     <td>Italy</td>
+  </tr>
+</table>          
+          
 | Week / Number |               Topics              |    Handouts   |     External Materials     |
 |:----:|:---------------------------------:|:-----------:|:-----------:|
 |   1 / 1  | Overview of artificial intelligence (Knowledge-driven AI & Data-driven AI); Basics in Python |  [Overview of AI](https://drive.google.com/drive/folders/1bi4SSM9kF0klnk-HwurDrRBPubhSvGmF?usp=sharing);  [Python Cheat Sheet](https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing)   |  [Semantic Web Technology](https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725);     | 
