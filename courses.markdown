@@ -102,7 +102,7 @@ Present
       <tr>
     <td align='center'>12</td>
     <td> <li> [Lab] Advanced Topic in TensorFlow: Input Pipeline </li> 
-       <li> AI Reasoning: Logical inference and knowledge representation </li> </td>
+       <li> AI Reasoning: Logical Inference and Knowledge Representation </li> </td>
      <td> <a href='https://www.youtube.com/watch?v=Mq2hvU6sGlo&t=1787s'>Talk: How a machine even argue?</a> </td>
   </tr>
 </table>          
