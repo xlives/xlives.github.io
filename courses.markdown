@@ -41,7 +41,7 @@ Present
        <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
        <li> What is machine learning? </li>
        <li> Linear regression with one variable </li> 
-       <li> First TensorFlow tutorial </li> 
+       <li> <a href='https://drive.google.com/file/d/1sDu61YvlBUeyC38QZr3jTUH2vX2JQ7bP/view?usp=sharing'>First TensorFlow tutorial</a> </li> 
        <li> Assignment 1 </li> 
     </td>
     <td> 
