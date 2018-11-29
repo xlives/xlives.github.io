@@ -28,15 +28,15 @@ Present
   </tr>
   <tr>
     <td align='center'>1</td>
-    <td> <ul> <li> <a href='https://drive.google.com/drive/folders/1bi4SSM9kF0klnk-HwurDrRBPubhSvGmF?usp=sharing'>Overview of artificial intelligence</a> </li> <li> [Lab] <a href='https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing'>Basics in python</a> </li> </ul> </td>
+    <td> <li> <a href='https://drive.google.com/drive/folders/1bi4SSM9kF0klnk-HwurDrRBPubhSvGmF?usp=sharing'>Overview of artificial intelligence</a> </li> <li> [Lab] <a href='https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing'>Basics in python</a> </li> </td>
      <td> <a href='https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725'>Semantic Web Technology</a> </td>
   </tr>
   <tr>
     <td align='center'>2</td>
-    <td> <ul> <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
+    <td> <li> [Lab] Basics in TensorFlow and TensorBoard </li> 
        <li> What is machine learning? </li>
        <li> Linear regression with one variable </li> 
-       <li> Assignment 1 </li> </ul> </td>
+       <li> Assignment 1 </li> 
      <td> 
           <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'> Debugging TensorFlow's Project with Pycharm </a> </li>
           <li> <a href='https://github.com/tensorflow/tensorboard'>TensorFlow's Visualization Toolkit</a> </li>
