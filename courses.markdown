@@ -27,7 +27,7 @@ Present
   <tr>
     <td align='center'>1</td>
     <td> 
-       <li> <a href='https://drive.google.com/drive/folders/1bi4SSM9kF0klnk-HwurDrRBPubhSvGmF?usp=sharing'>Overview of artificial intelligence</a> </li> 
+       <li> <a href='https://drive.google.com/file/d/1bawtfIGcGnfGeVmhdsOSkW4YYLMHjM03/view?usp=sharing'>Overview of artificial intelligence</a> </li> 
        <li> [Lab#0] <a href='https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing'>Basics in python</a> </li> 
     </td>
     <td> <a href='https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725'>Semantic Web Technology</a> 
@@ -36,11 +36,11 @@ Present
   <tr>
     <td align='center'>2</td>
     <td> 
-       <li> [Lab#1] Basics in TensorFlow and TensorBoard </li> 
-       <li> What is machine learning? </li>
-       <li> Linear regression with one variable </li> 
+       <li> [Lab#1] <a href='https://drive.google.com/open?id=12A-4tMT2SwUJnHHNBeC2bo3heZWeGP00'>Basics in TensorFlow and TensorBoard</a> </li> 
+       <li> <a href='https://drive.google.com/open?id=1-NVKXIMa2r9WcFm9nYaFvMUVAh7z3VhC'>What is machine learning?</a> </li>
+       <li> <a href='https://drive.google.com/open?id=126TN4TFz-hrH1NZ87lirlhvTnK2RFWTg'>Linear regression with one variable</a> </li> 
        <li> <a href='https://drive.google.com/file/d/1sDu61YvlBUeyC38QZr3jTUH2vX2JQ7bP/view?usp=sharing'>First TensorFlow tutorial</a> </li> 
-       <li> Assignment#1 </li> 
+       <li> <a href='https://drive.google.com/open?id=1GuVQI5si_PUeujuXedHOgNT6U9p0YsE-'>Assignment#1</a> </li> 
     </td>
     <td> 
           <li> <a href='https://www.youtube.com/watch?v=hYOOGstEzzM&t=1s'>VDO: Debugging TensorFlow's project with Pycharm </a> </li>
