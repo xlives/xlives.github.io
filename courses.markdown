@@ -21,7 +21,7 @@ Present
 <table align='center'>
   <tr>
     <th align='center'>Week</th>
-    <th>Topics</th>
+    <th>Topics and <a href='https://drive.google.com/drive/folders/1YDtmQ2CjlJQIz5BKoDglRrka9MpDRYcX?usp=sharing'>Course Materials</a></th>
     <th>External Materials</th>
   </tr>
   <tr>
