@@ -37,6 +37,7 @@ Present
     <td align='center'>2</td>
     <td> 
        <li> [Lab#1] <a href='https://drive.google.com/open?id=12A-4tMT2SwUJnHHNBeC2bo3heZWeGP00'>Basics in TensorFlow and TensorBoard</a> </li> 
+       <li> <a href='https://drive.google.com/open?id=1i_WxQCx81yZXVkQN8x8-ui8piKocLgwW'> Basics in TensorFlow and TensorBoard </a> </li>
        <li> <a href='https://drive.google.com/open?id=1-NVKXIMa2r9WcFm9nYaFvMUVAh7z3VhC'>What is machine learning?</a> </li>
        <li> <a href='https://drive.google.com/open?id=126TN4TFz-hrH1NZ87lirlhvTnK2RFWTg'>Linear regression with one variable</a> </li> 
        <li> <a href='https://drive.google.com/file/d/1sDu61YvlBUeyC38QZr3jTUH2vX2JQ7bP/view?usp=sharing'>First TensorFlow tutorial</a> </li> 
