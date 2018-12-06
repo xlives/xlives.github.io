@@ -56,7 +56,9 @@ Present
        <li> <a href='https://drive.google.com/open?id=1zJ2QAxdArMUV77tQuynOPp-WIQ24GLBV'>Review the basics of iterative methods</a> </li>
        <li> <a href='https://drive.google.com/open?id=1cHlyXmAkZPueM_8LTFBYlXznYpECdoS7'>Linear regression with multiple variables</a> </li>
        <li> <a href='https://drive.google.com/open?id=1_4Jk9YLgMIdoDqDRFdsSFdbMrm3YZWUs'>Assignment#2</a> </li></td>
-    <td> </td>
+    <td> 
+      <li> <a href='https://stackoverflow.com/questions/47818822/can-i-use-tensorboard-with-google-colab'>Can I use TensorBoard with Google Colab?</a> </li>
+     </td>
   </tr>
   <tr>
     <td align='center'>4</td>
