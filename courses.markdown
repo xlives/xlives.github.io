@@ -53,7 +53,7 @@ Present
     <td align='center'>3</td>
     <td> 
        <li> <a href='https://drive.google.com/open?id=1_WRPC8UT6-EP1_PuiBFaXLqzoScdqsmW'>[Lab#2] Linear regression with one variables</a> </li>
-       <li> <a href='https://drive.google.com/open?id=1zJ2QAxdArMUV77tQuynOPp-WIQ24GLBV'>(Review) Basics in iterative methods</a> </li>
+       <li> <a href='https://drive.google.com/open?id=1zJ2QAxdArMUV77tQuynOPp-WIQ24GLBV'>Basics in iterative methods</a> </li>
        <li> <a href='https://drive.google.com/open?id=1cHlyXmAkZPueM_8LTFBYlXznYpECdoS7'>Linear regression with multiple variables</a> </li>
        <li> <a href='https://drive.google.com/open?id=1_4Jk9YLgMIdoDqDRFdsSFdbMrm3YZWUs'>Assignment#2</a> </li></td>
     <td> 
