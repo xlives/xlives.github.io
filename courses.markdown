@@ -30,7 +30,7 @@ Present
        <li> <a href='https://drive.google.com/file/d/1bawtfIGcGnfGeVmhdsOSkW4YYLMHjM03/view?usp=sharing'>Overview of artificial intelligence</a> </li> 
        <li> [Lab#0] <a href='https://drive.google.com/drive/folders/1AQvLBi6Kbu_Em4tjyl9g4hRSKQrEkg2N?usp=sharing'>Basics in python</a> </li> 
     </td>
-    <td> <a href='https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725'>Semantic Web Technology</a> 
+    <td> <li><a href='https://www.slideshare.net/RathachaiChawuthai1/semantic-web-technology-122723725'>Semantic Web Technology</a></li> 
     </td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ Present
     <td align='center'>7</td>
     <td> <li> Neural network (Part 2: backpropagation) </li> 
        <li> [Lab#6] Neural network (Part 2: backpropagation) </li> </td>
-     <td> </td>
+     <td> <li> <a href='https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F192769%2Ftricks-2012.pdf'>Stochastic Gradient Descent Tricks</a> </li> </td>
   </tr>
    <tr>
     <td align='center'>8</td>
