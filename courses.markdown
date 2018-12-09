@@ -112,7 +112,7 @@ Present
   </tr>
       <tr>
     <td align='center'>12</td>
-    <td> <li> [Lab#10] Advanced topic in TensorFlow: input pipeline </li> 
+    <td> <li> [Lab#10] Advanced topic in TensorFlow: How to use a trained model from external programs? </li> 
        <li> AI Reasoning: Logical inference and knowledge representation </li> </td>
      <td> <li><a href='https://www.youtube.com/watch?v=Mq2hvU6sGlo&t=1787s'>Talk: How a machine even argue?</a></li> </td>
   </tr>
