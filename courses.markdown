@@ -59,6 +59,7 @@ Present
        <li> <a href='https://drive.google.com/open?id=1_4Jk9YLgMIdoDqDRFdsSFdbMrm3YZWUs'>Assignment#2</a> </li></td>
     <td> 
       <li> <a href='https://stackoverflow.com/questions/47818822/can-i-use-tensorboard-with-google-colab'>Can I use TensorBoard with Google Colab?</a> </li>
+       <li> <a href='http://tflearn.org/optimizers/'>Stochastic Gradient Descent in TFLearn</a></li>
      </td>
   </tr>
   <tr>
