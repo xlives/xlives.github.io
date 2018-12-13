@@ -64,8 +64,10 @@ Present
   </tr>
   <tr>
     <td align='center'>4</td>
-    <td> <li> Logistic regression </li> 
-       <li> [Lab#3] Logistic regression </li> </td>
+    <td>
+       <li> <a href='https://drive.google.com/open?id=1M4zj60NTNWfcBfmIdkdpnuD4_WDJ4QyU'>[Lab#3] Logistic regression</a></li> </td>
+       <li> <a href='https://drive.google.com/open?id=1x9U_MeqIl_UuDCtFXvFhHBT99NcxQ2ZZ'>Review about training</a> </li>
+       <li> <a href='https://drive.google.com/open?id=1y7HBFdywtMLnvnXTZUEArqUe449-OVSm'>Logistic regression - classification</a> </li> 
      <td> </td>
   </tr>
   <tr>
