@@ -73,20 +73,21 @@ Present
   </tr>
   <tr>
     <td align='center'>5</td>
-    <td> <li> Regularization </li> 
-       <li> [Lab#4] Regularization </li> </td>
+    <td> <li> Generalized linear models </li> 
+       <li> Generative learning algorithms </li> 
+       <li> [Lab#4] Generalized linear models and generative learning algorithms </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>6</td>
-    <td> <li> Neural network (Part 1: forward propagation) </li> 
-       <li> [Lab#5] Neural network (Part 1: forward propagation) </li> </td>
+    <td> <li> Regularization </li> 
+       <li> [Lab#5] Regularization </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>7</td>
-    <td> <li> Neural network (Part 2: backpropagation) </li> 
-       <li> [Lab#6] Neural network (Part 2: backpropagation) </li> </td>
+    <td> <li> Deep learning </li> 
+       <li> [Lab#6] Deep learning </li> </td>
      <td> <li> <a href='https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F192769%2Ftricks-2012.pdf'>Stochastic Gradient Descent Tricks</a> </li> </td>
   </tr>
    <tr>
@@ -103,14 +104,15 @@ Present
   </tr>
    <tr>
     <td align='center'>10</td>
-    <td> <li> Unsupervised learning </li> 
-       <li> Dimenstionality reduction </li>
-       <li> [Lab#8] How to manage experiments in TensorFlow </li></td>
+    <td> <li> Unsupervised learning </li>
+       <li> Dimensionality reduction </li>
+       <li> [Lab#8] How to manage experiments in Tensorflow </li>
+      </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>11</td>
-    <td> <li> Convolutional neural network </li> 
+    <td> <li> Convulutional neural network </li> 
        <li> [Lab#9] Convolutional neural network </li> </td>
      <td> </td>
   </tr>
