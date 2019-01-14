@@ -11,14 +11,20 @@ Welcome to Teeradaj's homepage!
 
 I did my Ph.D. in Information Science (Computational Logic) at [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/){:target="_blank"} (JAIST). 
 Currently, I am a special lecturer at (both public and private) universities and a technological consultant 
-(per requested). My research interests are twofold as follows: 
+(per requested). My research interests are threefold as follows: 
 1. Computational logic in artificial intelligence 
   * Knowledge and information can be represented by using diverse formalisms (e.g. description logics, answer set 
   programming, modal logic, argumentation framework, etc.) and different reasoning aspects of logic-based knowledge 
   representation can be employed to discover implicit information. My interests range from theoretical foundation (e.g. 
   expressivity, computational complexity, algorithms) to their areas of practical development (e.g. ontology applications, 
   applications of agent reasoning, and intelligent information systems).
-2. Engineering disciplines for software production
+2. Machine learning in artificial intelligence
+  * Given a dataset, can we find structured representation inside it? My interest (in this area) lies in the fundamental 
+  of machine learning techniques e.g. supervised learning, unsupervised learning, reinforcement learning, and 
+  transfer learning. Regarding the current state-of-the-art works, machine learning is one of the promising techniques 
+  that is suitable to deal with natural language processing. My interest also focuses on the study of machine learning 
+  techniques to obtain the better achievement. 
+3. Engineering disciplines for software production
   * How a software should be built and pushed to production? My interests comprise software engineering disciplines 
   related to all aspects of software production such as business requirement analysis (e.g. Lean startup), software 
   development process and methodologies (e.g. Scrum and LeSS framework), software testing, software architecture, 
