@@ -81,13 +81,14 @@ Present
    <tr>
     <td align='center'>6</td>
     <td> <li> Regularization </li> 
-       <li> [Lab#5] Regularization </li> </td>
+       <li> Deep Learning: Basics and Intuition </li> 
+      <li> [Lab#5] Regularization </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>7</td>
-    <td> <li> Deep learning </li> 
-       <li> [Lab#6] Deep learning </li> </td>
+    <td> <li> Deep learning: Learning </li> 
+       <li> [Lab#6] Deep learning: Learning </li> </td>
      <td> <li> <a href='https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F192769%2Ftricks-2012.pdf'>Stochastic Gradient Descent Tricks</a> </li> </td>
   </tr>
    <tr>
