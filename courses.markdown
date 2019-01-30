@@ -87,27 +87,31 @@ Present
   </tr>
    <tr>
     <td align='center'>7</td>
-    <td> <li> Deep learning: Learning </li> 
+    <td> <li> Deep learning: Feedforward </li> 
+       <li> Deep learning: Backpropagation </li> 
        <li> [Lab#6] Deep learning: Learning </li> </td>
      <td> <li> <a href='https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F192769%2Ftricks-2012.pdf'>Stochastic Gradient Descent Tricks</a> </li> </td>
   </tr>
    <tr>
     <td align='center'>8</td>
-    <td> <li> Learning theory </li> 
-       <li> Assignment#3 </li> </td>
+    <td> <li> Practices when applying machine learnings </li> 
+       <li> Machine learning system design </li> 
+       <li> [Lab#7] Bias-variance tradeoff </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>9</td>
     <td> <li> Support vector machines </li> 
+       <li> More about similarity </li> 
        <li> [Lab#7] Support vector machines </li> </td>
      <td> </td>
   </tr>
    <tr>
     <td align='center'>10</td>
     <td> <li> Unsupervised learning </li>
+       <li> K-means for clusing </li>
        <li> Dimensionality reduction </li>
-       <li> [Lab#8] How to manage experiments in Tensorflow </li>
+       <li> [Lab#8] Unsupervised learning </li>
       </td>
      <td> </td>
   </tr>
